@@ -1,2 +1,3 @@
 # TwitchChat-TS
-Extensão que integra o chat da twitch ao visual studio code de forma basica
+
+Este exemplo é para referência de como criar um Bot no Twitch.
